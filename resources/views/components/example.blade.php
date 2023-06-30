@@ -1,4 +1,5 @@
-<h1>Version 2</h1>
+<h1>Version 3</h1>
 
+<p>HIvo ndio kunaendanga!</p>
 
-<p>Life is like a camera. Just when you think you've got the perfect shot.."</p>
+<span>hallo</span>
